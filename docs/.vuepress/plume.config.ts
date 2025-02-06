@@ -6,7 +6,7 @@ export default defineThemeConfig({
     profile: {
         name: 'Isaac 周',
         description: 'Student | Developer',
-        avatar: '/public/avatar.png',
+        avatar: '/avatar.png',
         location: 'Anhui, China',
         organization: 'USTC',
         circle: true,
