@@ -22,7 +22,7 @@ export default defineThemeConfig({
         { text: '标签', link: '/blog/tags/', icon: 'mdi:tag-outline' },
         { text: '归档', link: '/blog/archives/', icon: 'material-symbols:archive-outline' },
         { text: 'CTF', link: '/ctf/', icon: 'material-symbols:security-key-outline' },
+        { text: 'AI', link: '/ai/', icon: 'mingcute:ai-line' },
     ],
-    copyright: 'CC-BY-4.0',
     logo: '/round.png',
 })
